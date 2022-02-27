@@ -1,6 +1,6 @@
 # qrious
 
-A new Flutter project.
+Qrious is an android app which let user know the product's authenticity by scanning the product's QR.
 
 ## Getting Started
 
